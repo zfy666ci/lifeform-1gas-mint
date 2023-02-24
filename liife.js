@@ -1,6 +1,6 @@
 const fs = require("fs");
 const axios = require("axios");
-const ERC20ABI = require("./bep20.json");
+
 const ERC20ABI = require("./bep20.json");
 const Web3 = require("web3");
  
